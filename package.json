@@ -1,0 +1,28 @@
+{
+  "name": "testing-something",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WassimBenzarti/testing-something.git"
+  },
+  "author": "Wassim Benzarti <wass11121996@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WassimBenzarti/testing-something/issues"
+  },
+  "homepage": "https://github.com/WassimBenzarti/testing-something#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5",
+    "stylus": "^0.54.5"
+  }
+}
